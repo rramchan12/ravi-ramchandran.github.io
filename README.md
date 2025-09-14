@@ -12,4 +12,3 @@ The Pages workflow has been updated to avoid using deprecated artifact actions. 
 See the GitHub changelog for details and migration guidance:
 <https://github.blog/changelog/2024-04-16-deprecation-notice-v3-of-the-artifact-actions/>
 
-You can re-trigger the workflow by pushing to `main` or using the Actions UI to re-run the Pages workflow.
