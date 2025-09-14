@@ -64,7 +64,7 @@ Microsoft Azure AI | Walmart Labs | GE Healthcare | Société Générale | Oracl
 - **IIM Bangalore:** Executive Mgmt Program
 - **IIIT Bangalore:** PG Diploma in ML & AI
 - **ICFAI University:** PG Diploma in Business Administration
-- **Nirma Institute of Technology:** BE/BTech
+- **NIT:** BE/BTech
 
 ---
 
