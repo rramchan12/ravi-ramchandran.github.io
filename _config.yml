@@ -1,3 +1,13 @@
 title: Ravi Ramchandran
 description: Principal Software Engineering Manager | AI Researcher | Tech Leader
 theme: jekyll-theme-cayman
+lsi: false
+safe: true
+source: .
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
