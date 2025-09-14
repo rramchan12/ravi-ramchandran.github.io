@@ -4,30 +4,51 @@ title: "Ravi Ramchandran"
 description: "Senior Engineering Leader | Hands-on Technocrat"
 ---
 
-# Ravi Ramchandran
-
-**Senior Engineering Leader | Hands-on Technocrat**  
-Microsoft Azure AI | Walmart Labs | GE Healthcare | Société Générale | Oracle | TCS  
-📧 ravi.ramchandran01@gmail.com  
-🔗 [GitHub](https://github.com/rramchan12) | [LinkedIn](https://www.linkedin.com/in/raviramchandran/)
-
----
+<div class="intro-section">
+  <p class="intro-text">
+    <strong>Senior Engineering Leader</strong> with expertise in AI/ML, cloud platforms, and large-scale systems. 
+    Currently leading AI model platforms at Microsoft Azure AI, with a proven track record at Walmart Labs, 
+    GE Healthcare, and other industry leaders.
+  </p>
+  
+  <div class="contact-info">
+    <a href="mailto:ravi.ramchandran01@gmail.com" class="contact-link">
+      <i class="fas fa-envelope"></i> ravi.ramchandran01@gmail.com
+    </a>
+  </div>
+</div>
 
 ## 🏆 Technical Impact
 
-- Led design and deployment of LLMs (Qwen-7B, Llama-2, DeepSeek, Mistral, Cohere) for global-scale applications.
-- Architected Azure Model Catalog and Model Scaling Platform for rapid onboarding and operational excellence.
-- Built ML experimentation platforms supporting model lifecycle, feature engineering, and deployment.
-- Delivered patented innovations in business process monitoring and big data quality assessment.
-- Created self-serve onboarding reducing model onboarding time by 40%.
-- Enabled ML solutions across search, healthcare, ecommerce, and cloud domains.
+<div class="achievement-grid">
+  <div class="card">
+    <h4><i class="fas fa-robot"></i> AI/ML Leadership</h4>
+    <p>Led design and deployment of LLMs (Qwen-7B, Llama-2, DeepSeek, Mistral, Cohere) for global-scale applications.</p>
+  </div>
+  
+  <div class="card">
+    <h4><i class="fas fa-cloud"></i> Platform Architecture</h4>
+    <p>Architected Azure Model Catalog and Model Scaling Platform for rapid onboarding and operational excellence.</p>
+  </div>
+  
+  <div class="card">
+    <h4><i class="fas fa-chart-line"></i> Performance Optimization</h4>
+    <p>Created self-serve onboarding reducing model onboarding time by 40% and built ML experimentation platforms.</p>
+  </div>
+  
+  <div class="card">
+    <h4><i class="fas fa-lightbulb"></i> Innovation</h4>
+    <p>Delivered patented innovations in business process monitoring and big data quality assessment.</p>
+  </div>
+</div>
 
----
+## 👑 Leadership Excellence
 
-## 👑 Leadership Traits
-
-- Defined and executed AI/ML/cloud product strategies aligned with business goals.
-- Built and scaled high-performing, diverse engineering teams.
+- Defined and executed AI/ML/cloud product strategies aligned with business goals
+- Built and scaled high-performing, diverse engineering teams
+- Managed site operations, on-call pods, and cross-functional initiatives
+- Mentored engineering managers, architects, and technical leads
+- Influenced senior executives through transparent stakeholder engagement
 - Managed site operations, on-call pods, and cross-functional initiatives.
 - Mentored engineering managers, architects, and technical leads.
 - Influenced senior executives through transparent stakeholder engagement.

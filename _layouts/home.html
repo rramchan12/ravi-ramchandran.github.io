@@ -3,12 +3,25 @@ layout: default
 ---
 
 <section class="hero">
-  <div class="container">
-    <h2 class="hero-title">{{ page.title }}</h2>
-    <p class="hero-sub">{{ page.description | default: site.description }}</p>
+  <div class="hero-content">
+    <div class="hero-text">
+      <h1 class="hero-title">{{ page.title }}</h1>
+      <p class="hero-subtitle">{{ page.description | default: site.description }}</p>
+      <div class="hero-cta">
+        <a href="#contact" class="btn btn-primary">Get In Touch</a>
+        <a href="#about" class="btn btn-secondary">Learn More</a>
+      </div>
+    </div>
+    <div class="hero-image">
+      <div class="avatar">
+        <i class="fas fa-user-tie"></i>
+      </div>
+    </div>
   </div>
 </section>
 
-<div class="container">
-  {{ content }}
-</div>
+<section id="about" class="section">
+  <div class="container">
+    {{ content }}
+  </div>
+</section>
