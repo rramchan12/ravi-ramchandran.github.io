@@ -11,3 +11,5 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+url: "https://rramchan12.github.io"
+baseurl: ""

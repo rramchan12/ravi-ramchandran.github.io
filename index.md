@@ -1,3 +1,9 @@
+---
+layout: home
+title: "Ravi Ramchandran"
+description: "Senior Engineering Leader | Hands-on Technocrat"
+---
+
 # Ravi Ramchandran
 
 **Senior Engineering Leader | Hands-on Technocrat**  
